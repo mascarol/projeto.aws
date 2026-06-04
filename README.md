@@ -34,9 +34,9 @@ Recomenda-se a continuidade do monitoramento através do AWS Cost Explorer e a f
 
 ## Anexos
 
-* **Anexo A:** Guia Oficial de Serviços de Armazenamento e Banco de Dados AWS (Material de Apoio DIO).
-* **Anexo B:** Planilha de Projeção de Gastos (Camadas de Armazenamento do Amazon S3).
-* **Anexo C:** Matriz de Decisão Arquitetural: Armazenamento em Bloco (EBS), Arquivo (EFS) e Objeto (S3).
+* [Anexo A: Diretrizes Conceituais de Arquitetura em Nuvem](anexo_a_diretrizes_arquitetura.md)
+* [Anexo B: Planilha de Projeção de Gastos Mensais](anexo_b_projeção_gastos.md)
+* [Anexo C: Matriz de Decisão Arquitetural](anexo_c_matriz_decisão.md)
 
 ---
 
